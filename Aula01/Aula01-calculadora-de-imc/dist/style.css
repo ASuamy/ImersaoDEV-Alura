@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://www.saudenaosepesa.com.br/content/dam/brazil/affiliate/www-saudenaosepesa-com-br/v2/img/diagnostico/diag-car-01.png' );
+  background-color: #000000;
+  background-size: 140vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 120vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle1 {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-subtitle2 {
+  color:red;
+  margin-top: 5px;
+  font-weight: bold;
+}
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
